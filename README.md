@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Anilk-kumar
-- 👀 I’m interested in vlsi job 
+- 👀 I’m interested in Core ECE Filed
 - 🌱 I’m currently learning Vlsi Design and verification course
+-   also i have skills regarding embedded systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through my mail Id : anil.kadari0423@gmail.com
 
